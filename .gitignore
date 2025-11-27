@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+.env*
+# keep dist in repo per current push request

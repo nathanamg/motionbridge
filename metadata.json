@@ -1,0 +1,5 @@
+{
+  "name": "MotionBridge AI",
+  "description": "An AI-powered animation handoff tool. Describe motion effects to generate precise CSS/Bezier parameters, visualize them, and export code for developers.",
+  "requestFramePermissions": []
+}
